@@ -7,5 +7,5 @@ try {
     }
   );
 } catch (err) {
-  print(err);
+  console.log(err);
 }
